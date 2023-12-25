@@ -96,7 +96,7 @@ class _PartOneHomeState extends State<PartOneHome> {
                 right: 150,
                 child: ElevatedButton(
                   style: ElevatedButton.styleFrom(
-                    primary: Colors
+                    backgroundColor: Colors
                         .white, // Set the button background color to white
                     elevation: 1, // Remove the default button elevation
                     shadowColor: Colors
@@ -123,7 +123,7 @@ class _PartOneHomeState extends State<PartOneHome> {
                   ),
                   child: ElevatedButton(
                     style: ElevatedButton.styleFrom(
-                      primary: Colors
+                      backgroundColor: Colors
                           .white, // Set the button background color to white
                       elevation: 1, // Remove the default button elevation
                       shadowColor: Colors

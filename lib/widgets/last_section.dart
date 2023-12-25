@@ -47,7 +47,7 @@ class _LastSectionWidgetState extends State<LastSectionWidget> {
                     style: TextStyle(color: Colors.pink),
                   ),
                   style: ElevatedButton.styleFrom(
-                    primary: Colors.white,
+                    backgroundColor: Colors.white,
                     side: BorderSide(
                         color: Colors.pink, width: 1), // Add border here
                   ),

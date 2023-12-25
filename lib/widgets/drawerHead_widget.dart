@@ -32,7 +32,7 @@ class DrawerWidget extends StatelessWidget {
                     ElevatedButton(
                         onPressed: () {},
                         style: ElevatedButton.styleFrom(
-                          primary: Colors.white,
+                          backgroundColor: Colors.white,
                           side: BorderSide(color: Colors.pink, width: 1),
                           shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(
