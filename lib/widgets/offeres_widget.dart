@@ -57,7 +57,8 @@ class _MyBkashWidgetState extends State<OffersWidget> {
                     itemBuilder: (context, index) => OffersCard(
                           offerscardIndex: index,
                         )),
-              )),
+              )
+          ),
         ],
       ),
     );
